@@ -1,0 +1,8 @@
+; Engine Configuration File.
+; Godot version: 4.x
+; Headless MCP test project.
+
+[application]
+config/name="Godot MCP Headless Test"
+config/features=PackedStringArray("4.2", "Mobile")
+run/main_scene="res://main.tscn"

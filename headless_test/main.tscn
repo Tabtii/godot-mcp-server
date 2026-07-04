@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://headless_main_scene"]
+
+[ext_resource type="Script" path="res://headless_mcp.gd" id="1_lq8a3"]
+
+[node name="Main" type="Node3D"]
+
+[node name="HeadlessMCP" type="Node" parent="."]
+script = ExtResource("1_lq8a3")

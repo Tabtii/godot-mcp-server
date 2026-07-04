@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "godot": {
+      "command": "/home/torben/projects/godot-mcp-server/mcp_server/.venv/bin/python",
+      "args": [
+        "/home/torben/projects/godot-mcp-server/mcp_server/server.py"
+      ],
+      "env": {
+        "GODOT_HOST": "localhost",
+        "GODOT_PORT": "8406"
+      }
+    }
+  }
+}
